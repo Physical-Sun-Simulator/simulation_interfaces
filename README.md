@@ -1,2 +1,2 @@
-# action_interfaces
-ROS2 package which provides action interfaces for the Physical Sunlight Simulator
+# simulation_interfaces
+ROS2 package which provides interfaces for the Physical Sunlight Simulator
