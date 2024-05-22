@@ -1,5 +1,5 @@
-int32 requested_angle
+float64 requested_angle
 ---
-int32 final_angle
+float64 final_angle
 ---
-int32 current_angle
+float64 current_angle
